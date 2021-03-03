@@ -1,0 +1,32 @@
+.loginPage {
+  font-family: "Helvetica";
+  height: auto;
+  width: 100%;
+  margin: 40px auto;
+}
+
+.loginForm {
+  border-radius: 4px;
+  height: auto;
+  width: 100%;
+  margin: 40px auto;
+  max-width: 270px;
+  background-color: #f6f8fa;
+}
+
+.fontSt {
+  text-align: start;
+  font-weight: bold;
+  padding-left: 4%;
+  font-family: "Helvetica";
+}
+
+.signin{
+    background-color: #2ea44f;
+    color: #fff;
+    padding: 10px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    width: 70%;
+    border-radius: 10px;
+}
