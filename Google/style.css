@@ -1,0 +1,51 @@
+.page{
+    height: auto;
+    width: 100%;
+    margin: 5% auto;
+}
+
+.searchBar{
+    max-width: 43%;
+    height: 8%;
+    border: 1px solid;
+    border-color: #dbdbdb;
+    border-radius: 40px;
+}
+
+.searchIcon{
+    padding-top: 2.4%;
+    padding-bottom: 3%;
+    padding-left: 5%;
+}
+
+.input{
+    width: 80%;
+    border: 0;
+    height: 5%;
+    padding: 3%;
+    padding-top: 4.2%;
+    padding-left: 0;
+    font-size: 18px;
+}
+
+
+input:focus{
+    color: black;
+    outline: 0;
+}
+
+.empty{
+    padding-top: 2.4%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+}
+
+.btn{
+    background-color: #F8F9FA;
+    height: 6%;
+    border: 0;
+}
+
+.hidden{
+    display: none;
+}
